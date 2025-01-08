@@ -13,6 +13,6 @@
 	"author": "Peter <peter.msgbox@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@contentful/rich-text-plain-text-renderer": "^12.0.0"
+		"@contentful/rich-text-plain-text-renderer": "^17.0.0"
 	}
 }

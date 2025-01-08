@@ -1,6 +1,6 @@
 {
 	"name": "gatsby-richtext-reading-time-contentful",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Gatsby plugin to calculate reading time for Contentful rich text fields.",
 	"main": "index.js",
 	"keywords": [

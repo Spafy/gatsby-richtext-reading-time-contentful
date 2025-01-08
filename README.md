@@ -20,14 +20,14 @@ Add the plugin to your **`gatsby-config.js`** file and if you want to specify th
 
 ```javascript
 module.exports = {
-	plugins: [
-		{
-			resolve: `gatsby-richtext-reading-time-contentful`,
-			options: {
-				contentTypes: [`ContentfulBlogPost`],
-			},
-		},
-	],
+  plugins: [
+    {
+      resolve: `gatsby-richtext-reading-time-contentful`,
+      options: {
+        contentTypes: [`ContentfulBlogPost`],
+      },
+    },
+  ],
 }
 ```
 

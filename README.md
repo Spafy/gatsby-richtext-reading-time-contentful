@@ -41,7 +41,7 @@ Once the plugin is installed and configured, it will process your specified Rich
     slug
     title
     fields {
-      bodyTimeToRead
+      DescriptionTimeToRead
     }
   }
 }

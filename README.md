@@ -1,4 +1,4 @@
-# gatsby-richtext-reading-time-contentful
+# Gatsby Rich Text Reading Time for Contentful
 
 A Gatsby plugin to calculate the **estimated reading time** for **Contentful Rich Text fields** and add it as a field in your Gatsby GraphQL schema.
 
